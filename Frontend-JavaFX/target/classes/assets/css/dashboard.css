@@ -1,0 +1,19 @@
+#left_menu_parent_vbox {
+    -fx-background-color:red;
+}
+
+#center_menu_parent_vbox {
+    -fx-background-color:black;
+}
+
+.scroll-pane {
+    -fx-background-color:yellow;
+}
+
+.titled-pane:collapsed >.title {
+    -fx-background-color: green;
+}
+
+.titled-pane:expanded >.title {
+    -fx-background-color: blue;
+}
